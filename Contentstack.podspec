@@ -12,7 +12,7 @@ s.homepage         = 'https://www.contentstack.com/'
 s.license          = { :type => 'Commercial',:text => 'See https://www.contentstack.com/'}
 s.author           = { 'Contentstack' => 'support@contentstack.io' }
 
-s.source           = { :git => 'https://github.com/contentstack/contentstack-ios.git', :tag => 'v3.12.2' }
+s.source           = { :git => 'https://github.com/abhinav-from-contentstack/contentstack-ios.git', :tag => 'v3.12.2' }
 s.social_media_url = 'https://twitter.com/Contentstack'
 
 s.ios.deployment_target = '11.0'
